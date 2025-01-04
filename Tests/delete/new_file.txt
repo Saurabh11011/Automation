@@ -1,0 +1,6 @@
+hello this file I have created through python
+that too using the os module to create a directory first
+ ye statement maine file ko append mode mai khol ke likha hai
+ye jo content hai wo list maise append hua hai
+ ye 2nd string hai list ki
+aur ye third hai
