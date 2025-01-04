@@ -18,6 +18,4 @@ def test_param2():
 
 @pytest.mark.parametrize("expected",[(401,403,200)])
 def test_add_one(expected):
-
-    resp = requests.request()
     assert 401 in expected
